@@ -1,0 +1,5 @@
+# Polyp size requirements
+
+python==3.8.5
+numpy==1.18.5
+opencv-python==4.7.0.68
